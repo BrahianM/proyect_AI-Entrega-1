@@ -1,10 +1,13 @@
-# proyect_AI
+# Proyecto “House Prices - Advanced Regression Techniques”:
+Miembros:
+  - César Augusto López Castillo, CC 1020470727, Ingeniería Eléctrica
+  - Brahian Monsalve Mejía, Ingeniería Civil, CC 1000406621
+  - Mateo Yepes Sierra, ingeniería mecánica
 
-Edwin_David_Duque_Grajales_1017255650_Ing Ambiental
+Fuente de los datos que usamos:
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 
-BRAHIAN_MONSALVE_MEJÍA_1000406621_ingeniería_civil
+Instrucciones para la obtención de los datos:
 
-Cristian_Aurelio_Buitrago_Marin_1041232167_Ingenieria Civil
 
-https://www.kaggle.com/competitions/how-much-did-it-rain/overview
-
+Videos de la entrega 1: https://youtu.be/wSamwTnGoRc
